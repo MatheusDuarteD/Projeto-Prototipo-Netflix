@@ -1,0 +1,6 @@
+:root {
+  --navBarFontSize: calc(16px + 6 * ((100vw - 320px) / 680));
+  --titleFontSize: calc(30px + 12 * ((100vw - 320px) / 680));
+  --supportingTextFontSize: calc(13px + 3 * ((100vw - 320px) / 680));
+  --buttonTextFontSize: calc(14px + 2 * ((100vw - 320px) / 680));
+}
